@@ -1,3 +1,5 @@
-## CMU Undergraduate Student Senate Academic Affairs
+# CMU Undergraduate Student Senate Academic Affairs
 
-bla bla bla
+## Recent Initiatives
+* Prerequisite Alignment
+* Add-drop deadline
