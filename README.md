@@ -3,10 +3,10 @@
 
 ## Recent Initiatives
 * Prerequisite Alignment
-- details on prereqs
+-- details on prereqs
 
 * Add-drop deadline
-- details on add drop
+-- details on add drop
 
 * Online Learning Resources
-- details on olr
+-- details on olr
